@@ -7,5 +7,5 @@ function solution(list) {
   return res;
 }
 
-list = [7, 3, 9, 5, 6, 12];
+const list = [7, 3, 9, 5, 6, 12];
 console.log(solution(list));
